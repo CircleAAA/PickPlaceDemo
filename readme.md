@@ -1,4 +1,4 @@
-# Overview
+# Pick & Place Demo
 
 This simple project is to show how to train a multi-frame-input and multi-frame-prediction vision-action model to complete a two-stage task. The first stage is to reach and pick a cube on the ground. The second stage is then to carry the object to the target place. The stage is pivoted 
 
