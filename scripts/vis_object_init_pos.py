@@ -1,7 +1,7 @@
 import os
 import matplotlib.pyplot as plt
 from tqdm import trange
-from util import read_json
+from src.util import read_json
 
 
 def main():
